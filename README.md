@@ -1,1 +1,2 @@
-# Password-strength-predictor-using-deep-learning-and-NLP
+# Password-Manager and strength-predictor app
+# Strength predictor using Deeplearning and Natural Language Processing
