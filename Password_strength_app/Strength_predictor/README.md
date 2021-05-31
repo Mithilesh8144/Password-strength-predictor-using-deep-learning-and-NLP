@@ -13,3 +13,5 @@ The standard tokenizer from keras has been used to handle the tokenization.
 An accuracy of around 99% has been achieved and using a LSTM makes sure that repition of characters are penalised.
 
 The model then predicts a password as strong provided it has a length of 15 and equal no. of alphabets, numbers andspcial characters. 
+
+The passwords used for training are from 000webhost leak that is available online. I have also added my own set of strong passwords, generated using a simple python script and have also included common babynames, countries, and common password combinations such as xxxx123!, etc
