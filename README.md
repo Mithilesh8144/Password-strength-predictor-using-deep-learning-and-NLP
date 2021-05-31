@@ -1,2 +1,2 @@
 # Password-Manager and strength-predictor app
-# Strength predictor using Deeplearning and Natural Language Processing
+# Strength predictor using Deep Learning and Natural Language Processing
